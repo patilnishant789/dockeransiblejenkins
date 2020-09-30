@@ -1,7 +1,7 @@
 <html>
 <body>
   <marquee>
-<h1 stype="colour: red">MOTU</h1>
+<h1 style="color:red;font-size:40px;">MOTU</h1>
   </marquee>
 </body>
 </html>
