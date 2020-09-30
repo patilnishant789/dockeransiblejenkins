@@ -22,7 +22,7 @@
     - name: Start the container
       docker_container:
         name: application
-        image: "devopsnishant/application:{{DOCKER_TAG}}"
+        image: "devopsnishant/application:{{Docker_Tag}}"
         state: started
         published_ports:
           - 0.0.0.0:8080:8080
